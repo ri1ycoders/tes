@@ -6,7 +6,7 @@ let zahirr = db.get("zahirr");
 } catch (e) {
 	console.log('')  
 }
-let creator = "❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶"
+let creator = "Putbotz"
 let axios = require('axios')
 let fs = require('fs')
 let fetch = require('node-fetch');
